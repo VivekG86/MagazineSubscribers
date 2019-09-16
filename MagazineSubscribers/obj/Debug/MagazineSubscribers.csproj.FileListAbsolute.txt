@@ -1,0 +1,8 @@
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\obj\Debug\MagazineSubscribers.csprojResolveAssemblyReference.cache
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\bin\Debug\MagazineSubscribers.exe.config
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\bin\Debug\MagazineSubscribers.exe
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\bin\Debug\MagazineSubscribers.pdb
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\obj\Debug\MagazineSubscribers.exe
+C:\Users\vgopal162\Documents\Visual Studio 2013\Projects\MagazineSubscribers\MagazineSubscribers\obj\Debug\MagazineSubscribers.pdb
